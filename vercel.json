@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/discord-bio/:path*",
-      "destination": "/:path*"
-    }
-  ]
-}
